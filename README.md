@@ -8,11 +8,11 @@ Built as a course project for **CSE260 – Digital Logic Design**.
 
 ## Project Overview
 
-![Line Following Robot](images/line-follower-robot.png)
+![Line Following Robot](CSE260 Line following robot .png)
 
 The robot follows a black line drawn on a white surface using two IR sensor modules. Each sensor feeds a binary signal (0 or 1) into a comparator (LM393), which drives the corresponding motor through an L293D motor driver IC. The entire decision-making logic — *"is there a line? which motor runs?"* — is implemented as a hardware combinational circuit, not software.
 
-This is the physical embodiment of the combinational logic circuits studied in CSE260.
+This is the physical embodiment of the combinational logic circuits.
 
 ---
 
