@@ -1,0 +1,7 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large raw image exports
+*.raw
+*.bmp
